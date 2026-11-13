@@ -1,0 +1,8 @@
+# Python environment
+venv/
+env/
+.envrc
+.direnv/
+#System files
+.DS_Store
+Thumbs.db
